@@ -1,10 +1,10 @@
-This is a shell repository. 
+This is a template repository for designing a Seattle CUT session. If you mofidy this template please record your changes in the [template log](https://github.com/SeattleCUTGroup/UserTestingSession/blob/master/template_log.md) document.  
 
-When initiating a new project for a CUT session fork this repository and do the following: 
+When initiating a new project for a CUT session follow these steps:  
 
-1. Replace the `readme.md` with a descreiption of the project, stakeholders, timeline, goals, etc. 
-2. In the Settings panel above create a wiki for planning the session
-3. Email an invitation to the relevant CUT group organizers.  
-4. Create relevant folders for testing materials - such as the app being tested, screen-shots, testing scripts, etc. 
-5. Create a relevant folder to store data - such as video recordings, audio, consent forms, etc. 
+1. A member of the CUT board will start a new repository for you under the `SeattleCUTGroup` organization. 
+2. In the new repository modify this `readme.md` with a description of the sponsor, roles, and dates of the CUT session. For an example see the [CityClerk](https://github.com/SeattleCUTGroup/CityClerk) repo 
+3. Under the settings tab above you can invite new people to the repository. 
+4. Follow the `CUT-Session-Checklist.md` document for all other activities. 
+5. Have fun! And, thank you for working with Seattle's CUT group. 
 
