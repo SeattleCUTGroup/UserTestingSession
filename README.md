@@ -5,6 +5,6 @@ When initiating a new project for a CUT session follow these steps:
 1. A member of the CUT board will start a new repository for you under the `SeattleCUTGroup` organization. 
 2. In the new repository modify this `readme.md` with a description of the sponsor, roles, and dates of the CUT session. For an example see the [CityClerk](https://github.com/SeattleCUTGroup/CityClerk) repo 
 3. Under the settings tab above you can invite new people to the repository. 
-4. Follow the `CUT-Session-Checklist.md` document for all other activities. 
+4. Follow the [Session Planning List](https://github.com/SeattleCUTGroup/UserTestingSession/blob/master/PlanningList.md) document for all other activities. 
 5. Have fun! And, thank you for working with Seattle's CUT group. 
 
