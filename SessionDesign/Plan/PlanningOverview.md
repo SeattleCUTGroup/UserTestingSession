@@ -12,7 +12,7 @@ The planning stage includes three steps: 1. Intiating and funding a new project;
 **2. Sponsor Coordination**
 - The Session Lead will modify the newly created repository to act as a planning space for the upcoming session. 
 - The Session Lead will host a meeting with the Project Sponsor to better understand their goals, specific time frame and requirements of the CUT session, etc. 
-- The Session Lead should then create a proposed [budget] and submit this to the CUT Sponsor for approval. 
+- The Session Lead should then create a proposed [budget](https://github.com/SeattleCUTGroup/UserTestingSession/blob/master/Documentation/BudgetTemplate.md) and submit this to the CUT Sponsor for approval. 
 - The Session Lead should identify a Session Designer who will be responsible for creating tasks, activities, interview questions, etc. based on the goals or requirements of the sponsor. 
 
 **3. Session Design**
